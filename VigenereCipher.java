@@ -43,4 +43,4 @@ public class VigenereCipher {
     } // for
     return new String(letters);
   } // encode(String msg, String keywords, boolean reverse)
-}
+} // class VigenereCipher
